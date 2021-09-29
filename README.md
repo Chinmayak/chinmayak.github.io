@@ -1,7 +1,6 @@
-# The Minimal Light Theme
+# Chinmaya Kumar's website
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
-
+Repository to code for [my website](chinmayak.github.io)
 
 ## License
 
@@ -9,7 +8,9 @@ This work is licensed under a [Creative Commons Zero v1.0 Universal](https://git
 
 ## Acknowledgements
 
-Our project uses the source code from the following repositories:
+This project uses the source code from the following repositories:
+
+* [The Minimal Light Theme](https://github.com/yaoyao-liu/minimal-light)
 
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
