@@ -23,7 +23,7 @@ Kumar, Chinmaya, and M. R. Sharan. ["The Distributional Consequences of Politica
 
 "Persistent Prejudice: De-Biasing and the Demand for Biased News", with Christopher Blattman, Leonardo Bursztyn, Kailash Rajah. 
 
-"Lending a Hand: SOcial Identity and performance of Economic Enterprises in Rural India", with M. R. Sharan
+"Lending a Hand: Social Identity and performance of Economic Enterprises in Rural India", with M. R. Sharan
 
 "Privately Rich, Publicly Poor: Discrimination in Public Goods Provision in Rural India", with M. R. Sharan
 
