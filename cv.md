@@ -1,0 +1,2 @@
+<meta http-equiv="refresh" content="0; url=https://chinmayakumar.com/kumar_cv.pdf" />
+If you are not redirected automatically, follow this <a href='https://chinmayakumar.com/kumar_cv.pdf'>link to my CV.
