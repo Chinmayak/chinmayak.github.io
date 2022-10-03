@@ -10,9 +10,11 @@ I am a Ph.D. student at University of Chicago. My research falls under two broad
 
 **Secondary fields**: Labor economics, Political economy
 
-## Working Papers
 
-[Sharan, M. R.](https://www.mrsharan.com/), and Chinmaya Kumar. ["Something to Complain About: How Minority Representatives Overcome Ethnic Barriers."](/research/complain.pdf) Working Paper, 2019.
+## Job Market Paper
+[Sharan, M. R.](https://www.mrsharan.com/), and Chinmaya Kumar. ["When Leaders Complain: Complaint Filing and Public Goods Provision in Rural India."]
+
+## Working Papers
 
 Kumar, Chinmaya, and [Sharan, M. R.](https://www.mrsharan.com/). ["The Distributional Consequences of Political Reservation."](/research/reservation.pdf) Working Paper, 2018.
 
@@ -26,7 +28,7 @@ Kumar, Chinmaya, and [Sharan, M. R.](https://www.mrsharan.com/). ["The Distribut
 
 "Privately Rich, Publicly Poor: Discrimination in Public Goods Provision in Rural India", with M. R. Sharan
 
-## Work With Me
+## Teaching
 
-Research Associate For Current Field Experiments in Bihar: [Job Description](/research/Job_ad_BFE2021.pdf)
+
 
