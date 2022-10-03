@@ -12,7 +12,7 @@ I am a Ph.D. student at University of Chicago. My research falls under two broad
 
 
 ## Job Market Paper
-[Sharan, M. R.](https://www.mrsharan.com/), and Chinmaya Kumar. ["When Leaders Complain: Complaint Filing and Public Goods Provision in Rural India."]
+Kumar, Chinmaya, and [Sharan, M. R.](https://www.mrsharan.com/). "When Leaders Complain: Complaint Filing and Public Goods Provision in Rural India."
 
 ## Working Papers
 
