@@ -22,7 +22,7 @@ Kumar, Chinmaya, and [Sharan, M. R.](https://www.mrsharan.com/). ["The Distribut
 
 “Distaste for Minority Bosses: Discrimination from Below and its Economic Consequences in India” 
 
-"Persistent Prejudice: De-Biasing and the Demand for News", with [Christopher Blattman](https://chrisblattman.com/), [Leonardo Bursztyn](https://home.uchicago.edu/bursztyn/index.html), Kailash Rajah. 
+"Persistent Prejudice: De-Biasing and the Demand for News", with [Christopher Blattman](https://chrisblattman.com/), [Leonardo Bursztyn](https://home.uchicago.edu/bursztyn/index.html), Kailash Rajah, [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) 
 
 "Lending a Hand: Social Identity and performance of Economic Enterprises in Rural India", with M. R. Sharan
 
