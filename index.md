@@ -37,7 +37,7 @@ low caste members in local government in the long-run. Turning to mechanisms, we
 government programs are better targeted towards low castes in reserved constituencies. Our
 results suggest a virtuous cycle between political representation and resource access, which reap
 significant benefits for minority groups in the long run.  
-</details>
+</details>&nbsp;
 
 ## Work in Progress
 
