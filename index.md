@@ -24,7 +24,7 @@ Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). ["The Distributi
 
 ## Work in Progress
 
-“Selection, Sorting and Discrimination in Labor Supply Decisions: Experimental Evidence from India” 
+"Selection, Sorting and Discrimination in Labor Supply Decisions: Experimental Evidence from India" 
 
 "Persistent Prejudice: De-Biasing and the Demand for News", with [Christopher Blattman](https://chrisblattman.com/), [Leonardo Bursztyn](https://home.uchicago.edu/bursztyn/index.html), Kailash Rajah, [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) 
 
@@ -32,7 +32,7 @@ Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). ["The Distributi
 
 "Strengthening Citizen Led Monitoring: Experimental Evidence from India", with [Aaditya Dar](https://aadityadar.com/) and [M. R. Sharan](https://www.mrsharan.com/)
 
-“Bargaining Out of Poverty? Experimental Evidence on Income Shocks and Pricing Behavior of Microentrepreneurs in India”, with [Varun Kapoor](https://sites.google.com/view/varunk/)
+"Bargaining Out of Poverty? Experimental Evidence on Income Shocks and Pricing Behavior of Microentrepreneurs in India", with [Varun Kapoor](https://sites.google.com/view/varunk/)
 
 ## Teaching
 
@@ -43,7 +43,3 @@ Advanced Microeconomics (PhD), Winter 2020, Teaching Assistant for Prof. [Damon 
 Order and Violence (MPP), Spring 2019, Teaching Assistant for Prof. [Chris Blattman](https://chrisblattman.com/)
 
 Microeconomics (Undergraduate), Fall 2018, Teaching Assistant for Prof. [Kerwin Charles](https://kerwin-charles.squarespace.com/)
-
-
- 
-
