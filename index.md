@@ -36,7 +36,7 @@ Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). ["The Distributi
 
 ## Teaching
 
-Political Economy of Development (PhD), Spring 2021 and Spring 2022, Teaching Assistant for Prof. [James Robinson](https://voices.uchicago.edu/jamesrobinson/https://voices.uchicago.edu/jamesrobinson/) and Prof. [Chris Blattman](https://chrisblattman.com/)
+Political Economy of Development (PhD), Spring 2021 and Spring 2022, Teaching Assistant for Prof. [James Robinson](https://voices.uchicago.edu/jamesrobinson/) and Prof. [Chris Blattman](https://chrisblattman.com/)
 
 Advanced Microeconomics (PhD), Winter 2020, Teaching Assistant for Prof. [Damon Jones](https://home.uchicago.edu/~j1s/)
 
