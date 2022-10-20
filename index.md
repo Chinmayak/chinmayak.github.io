@@ -4,7 +4,7 @@ layout: homepage
 
 ## About
 
-[Curriculum Vitae](/documents/Chinmaya_Kumar_cv)
+[Curriculum Vitae](/documents/Chinmaya_Kumar_cv.pdf)
 
 I am a Ph.D. student at University of Chicago. My research falls under two broad themes. First, I study how individuals' social identity shapes their decisions in a variety of settings such as labor markets, bureaucracy, and elected bodies. In particular, I attempt to empirically document discrimination against disadvantaged groups and uncover underlying motivations behind it. The second theme of my research is related to understanding the roots of low citizen participation and poor quality of public services delivery in weak institutional settings. More specifically, I examine how institutions such as the grievance redressal system can be used to encourage greater citizen participation and a more responsive state. 
 
