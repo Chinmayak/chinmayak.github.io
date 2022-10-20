@@ -4,11 +4,13 @@ layout: homepage
 
 ## About
 
+[Curriculum Vitae] (/documents/Chinmaya_Kumar_cv)
+
 I am a Ph.D. student at University of Chicago. My research falls under two broad themes. First, I study how individuals' social identity shapes their decisions in a variety of settings such as labor markets, bureaucracy, and elected bodies. In particular, I attempt to empirically document discrimination against disadvantaged groups and uncover underlying motivations behind it. The second theme of my research is related to understanding the roots of low citizen participation and poor quality of public services delivery in weak institutional settings. More specifically, I examine how institutions such as the grievance redressal system can be used to encourage greater citizen participation and a more responsive state. 
 
 My research projects have been funded by several organizations including [NSF](), [J-PAL](https://www.povertyactionlab.org/), [BFI Development Economics Center](https://bfi.uchicago.edu/centers-programs/development-economics-center/), [The Weiss Fund](https://bfi.uchicago.edu/the-weiss-fund/), [IGC](https://www.theigc.org/), and [Azim Premji Foundation](https://azimpremjifoundation.org/). 
 
-I am on the 2022-23 job market and will be available for interviews.
+I am on the 2022-23 job market and will be available for interviews. 
 
 **Primary fields**: Development economics, Behavioral economics
 
