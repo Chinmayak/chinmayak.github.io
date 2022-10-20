@@ -12,9 +12,8 @@ My research projects have been funded by several organizations including [NSF]()
 
 I am on the 2022-23 job market and will be available for interviews. 
 
-**Primary fields**: Development economics, Behavioral economics
-
-**Secondary fields**: Labor economics, Political economy
+**Primary fields**: Development economics, Political economy 
+**Secondary fields**: Behavioral economics, Labor economics 
 
 
 ## Job Market Paper
