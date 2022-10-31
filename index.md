@@ -19,6 +19,9 @@ I am on the 2022-23 job market and will be available for interviews.
 
 ## Job Market Paper
 Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). "Complaint Resolution Systems: Experimental Evidence from Rural India."
+<details>
+<summary>Abstract</summary> We study whether access to complaint resolution systems can facilitate greater collaboration across different tiers of the state and improves the implementation of public goods projects. Taking advantage of the introduction of a new complaint resolution institution in the state of Bihar, we run a field experiment involving 1629 low-caste local representatives. We focus on representatives who were unable to start public goods projects in their constituencies due to bureaucratic hurdles. We randomize offers to file complaints regarding public good project initiation on their behalf and track its effects. Our treatment leads to a 40 percentage points jump in complaint filing rate. It is effective in improving project implementation: treated constituencies see a 26% rise in public good projects. We also find that the treatment increases project initiation in neighboring jurisdictions by 23%. Our analysis suggests that the mere threat of a formal complaint technology could cause project initiation in neighboring wards. Surprisingly, treated representatives do not gain any electoral returns in the local elections that were held two years after the treatment. 
+</details>
 
 ## Working Papers
 
@@ -39,17 +42,24 @@ low caste members in local government in the long-run. Turning to mechanisms, we
 government programs are better targeted towards low castes in reserved constituencies. Our
 results suggest a virtuous cycle between political representation and resource access, which reap
 significant benefits for minority groups in the long run. 
-  
 </details>
 
 ## Work in Progress
 
 "Selection, Sorting and Discrimination in Labor Supply Decisions: Experimental Evidence from India" 
+<details>
+<summary>Abstract</summary> Minorities are underrepresented in enterprise ownership and leadership positions in big firms. Why? This paper empirically investigates the role of one potential reason for this: discrimination against minority employers by subordinate workers. I embed a field experiment in the recruitment of entry-level workers by a set of firms based in India. The field experiment aims to answer two main research questions: 1) Do minority employers face discrimination from below in labor markets? 2) What are the underlying motivations? I specifically test for two potential motives: attention discrimination, social image concerns. Preliminary results show that applicants are 30% less likely to apply for jobs advertised by minority employers. I also find strong evidence for attention discrimination against minority employers. 
+</details>
 
 "Persistent Prejudice: De-Biasing and the Demand for News", with [Christopher Blattman](https://chrisblattman.com/), [Leonardo Bursztyn](https://home.uchicago.edu/bursztyn/index.html), Kailash Rajah, [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) 
+<details>
+<summary>Abstract</summary> Identity groups often hold incorrect and biased beliefs about competing groups. Examples include Democrats and Republicans in the US, or Israelis and Arabs in the Middle East. In India, the setting for this study, Hindu nationalists commonly believe that Muslims are untrustworthy, or that the Muslim population is growing so fast that their population will overtake Hindus. These beliefs may be persistent and difficult to correct. Why is that? One reason, we hypothesize, is that people exposed to information counter to their group identity may work to re-bias themselves by increasing their selective exposure--their consumption of biased news and information. We design an experiment in which we randomly provide Hindu respondents with information to correct a biased belief about Muslims, using informational videos. We first confirm that the videos shift their beliefs during the experiment. We then examine their demand for new information—having been de-biased, are they more likely to seek information from a biased source?
+</details>
 
 "Leader Led Growth: Social Identity and performance of Economic Enterprises in Rural India", with [M. R. Sharan](https://www.mrsharan.com/)
-
+<details>
+<summary>Abstract</summary> Misallocation of entrepreneurial talent can prevent the economy from achieving its growth potential. Minority groups face discrimination across multiple markets – capital, product, labor – that limits the entry and growth of minority-run enterprises. This paper empirically investigates whether exposure to minority leaders at the local level can help minority entrepreneurs overcome some of the barriers and improve the performance of their enterprises. Using a regression discontinuity design, we find that exogenous exposure to minority leaders results in a strong positive effect on the entry and growth of minority-run enterprises: there is a 20% increase in the number of enterprises and a 27% increase in workers employed by minority-owned enterprises. We find evidence for positive spillover effects on social groups closer to status hierarchy but no effects on his-status social groups. Using a primary survey of enterprises, we plan to uncover the underlying channels through which local leaders impact the performance of economic enterprises. 
+</details>
 "Strengthening Citizen Led Monitoring: Experimental Evidence from India", with [Aaditya Dar](https://aadityadar.com/) and [M. R. Sharan](https://www.mrsharan.com/)
 
 "Bargaining Out of Poverty? Experimental Evidence on Income Shocks and Pricing Behavior of Microentrepreneurs in India", with [Varun Kapoor](https://sites.google.com/view/varunk/)
