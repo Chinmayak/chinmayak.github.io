@@ -1,2 +1,2 @@
-<meta http-equiv="refresh" content="0; url=https://chinmayakumar.com/research/XX.pdf" />
-If you are not redirected automatically, follow this <a href='https://chinmayakumar.com/research/XX.pdf'>link to my JMP.
+<meta http-equiv="refresh" content="0; url=https://chinmayakumar.com/research/jmp.pdf" />
+If you are not redirected automatically, follow this <a href='https://chinmayakumar.com/research/jmp.pdf'>link to my JMP.
