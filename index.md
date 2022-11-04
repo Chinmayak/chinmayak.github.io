@@ -26,7 +26,7 @@ Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). ["Complaint Reso
 
 ## Working Papers
 
-[M. R. Sharan](https://www.mrsharan.com/), and Chinmaya Kumar. ["The Distributional Consequences of Political Reservation."](/research/reservation_paper.pdf) Working Paper, 2018. 
+[M. R. Sharan](https://www.mrsharan.com/), and Chinmaya Kumar. ["The Distributional Consequences of Political Reservation."](/research/reservation_paper.pdf) Working Paper
 <details>
 <summary>Abstract</summary> A key goal of affirmative action policies is to reduce disparities between disadvantaged minority groups and others. We study one such policy: mandated political representation in favor
 of low caste (Scheduled Castes/SC) groups in India. Using secondary data on public goods from
