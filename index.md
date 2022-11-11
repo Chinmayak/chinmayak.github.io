@@ -18,7 +18,7 @@ I am on the 2022-23 job market and will be available for interviews.
 
 
 ## Job Market Paper
-Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). ["Complaint Resolution Systems: Experimental Evidence from Rural India."](/research/jmp.pdf)
+Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). "Complaint Resolution Systems: Experimental Evidence from Rural India."[pdf](/research/jmp.pdf)
 <details>
 <summary>Abstract</summary> We study whether access to complaint resolution systems can facilitate greater collaboration across different tiers of the state and improves the implementation of public goods projects. Taking advantage of the introduction of a new complaint resolution institution in the state of Bihar, we run a field experiment involving 1629 low-caste local representatives. We focus on representatives who were unable to start public goods projects in their constituencies due to bureaucratic hurdles. We randomize offers to file complaints regarding public good project initiation on their behalf and track its effects. Our treatment leads to a 40 percentage points jump in complaint filing rate. It is effective in improving project implementation: treated constituencies see a 26% rise in public good projects. We also find that the treatment increases project initiation in neighboring jurisdictions by 23%. Our analysis suggests that the mere threat of a formal complaint technology could cause project initiation in neighboring wards. Surprisingly, treated representatives do not gain any electoral returns in the local elections that were held two years after the treatment. 
 </details> 
@@ -26,7 +26,7 @@ Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). ["Complaint Reso
 
 ## Working Papers
 
-[M. R. Sharan](https://www.mrsharan.com/), and Chinmaya Kumar. ["The Distributional Consequences of Political Reservation."](/research/reservation_paper.pdf) Working Paper
+[M. R. Sharan](https://www.mrsharan.com/), and Chinmaya Kumar. "The Distributional Consequences of Political Reservation."[pdf](/research/reservation_paper.pdf) Working Paper
 <details>
 <summary>Abstract</summary> A key goal of affirmative action policies is to reduce disparities between disadvantaged minority groups and others. We study one such policy: mandated political representation in favor
 of low caste (Scheduled Castes/SC) groups in India. Using secondary data on public goods from
