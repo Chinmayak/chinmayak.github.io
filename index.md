@@ -26,7 +26,7 @@ Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). "Complaint Resol
 
 ## Working Papers
 
-[M. R. Sharan](https://www.mrsharan.com/), and Chinmaya Kumar. "The Distributional Consequences of Political Reservation." [[PDF]](/research/reservation_paper.pdf) Working Paper
+[M. R. Sharan](https://www.mrsharan.com/), and Chinmaya Kumar. "The Distributional Consequences of Political Reservation." [[PDF]](/research/reservation_paper.pdf) 
 <details>
 <summary>Abstract</summary> A key goal of affirmative action policies is to reduce disparities between disadvantaged minority groups and others. We study one such policy: mandated political representation in favor
 of low caste (Scheduled Castes/SC) groups in Bihar, India. Using a regression discontinuity design framework, we study how political reservation affects inter-group disparities in the short- and long-run. We show that political reservation in favor of SCs for the post of local government head (a) lowers SC-non-SC disparities in access to public goods in the short-run (5 years later) and long-run (13 years later), (b) lowers inter-group private asset inequality modestly in the short-run and substantially in the long-run (c) has no efficiency consequences in the short-run and (d) increases political participation and presence of low caste members in local government in the long-run. Turning to mechanisms, we show that government programs are better targeted towards low castes in reserved constituencies. Our results suggest a virtuous cycle between political representation and resource access, which reap significant benefits for minority groups in the long run.
