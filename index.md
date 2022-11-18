@@ -6,7 +6,7 @@ layout: homepage
 
 [Curriculum Vitae](/documents/Chinmaya_Kumar_cv.pdf)
 
-I am a Ph.D. student at University of Chicago. My research interests lie at the intersection of development, political, and behavioral economics. Specifically, I am interested in studying agency problems in public sector organizations and identifying interventions that can improve state effectiveness. In addition, I am also interested in understanding the causes of the underrepresentation of minorities in leadership roles in firms, bureaucracies, and elected bodies. One unifying thread across these two themes is that I explicitly study the role of social identity in shaping individuals’ decisions and how that affects organizational effectiveness.
+I am a Ph.D. student at University of Chicago. My research interests lie at the intersection of development, political, and behavioral economics. I am interested in studying agency problems in public sector organizations and identifying interventions that can improve state effectiveness. In addition, I am also working on the causes of the under-representation of minorities in leadership roles in firms, bureaucracies, and elected bodies. 
 
 My research projects have been funded by several organizations including [NSF](), [J-PAL](https://www.povertyactionlab.org/), [BFI Development Economics Center](https://bfi.uchicago.edu/centers-programs/development-economics-center/), [The Weiss Fund](https://bfi.uchicago.edu/the-weiss-fund/), [IGC](https://www.theigc.org/), and [Azim Premji Foundation](https://azimpremjifoundation.org/). 
 
