@@ -59,7 +59,7 @@ of low caste (Scheduled Castes/SC) groups in Bihar, India. Using a regression di
 
 ## Pre-doctoral Publications
 
-["Cash versus Kind: Understanding the Preferences of the Bicycle-Programme Beneficiaries in Bihar"](https://www.epw.in/journal/2016/11/special-articles/cash-versus-kind.html), (with [Maitreesh Ghatak](https://personal.lse.ac.uk/ghatak/)and Sandip Mitra). Economic and Political Weekly of India, Vol. 51, Issue No. 11, 12 Mar, 2016, p. 51-60.
+["Cash versus Kind: Understanding the Preferences of the Bicycle-Programme Beneficiaries in Bihar"](https://www.epw.in/journal/2016/11/special-articles/cash-versus-kind.html), (with [Maitreesh Ghatak](https://personal.lse.ac.uk/ghatak/) and Sandip Mitra). Economic and Political Weekly of India, Vol. 51, Issue No. 11, 12 Mar, 2016, p. 51-60.
 
 ## Teaching
 
