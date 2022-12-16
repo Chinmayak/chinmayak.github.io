@@ -57,6 +57,10 @@ of low caste (Scheduled Castes/SC) groups in Bihar, India. Using a regression di
 
 "Bargaining Out of Poverty? Experimental Evidence on Income Shocks and Pricing Behavior of Microentrepreneurs in India", with [Varun Kapoor](https://sites.google.com/view/varunk/)
 
+## Pre-doctoral Publications
+
+["Cash versus Kind: Understanding the Preferences of the Bicycle-Programme Beneficiaries in Bihar"](https://www.epw.in/journal/2016/11/special-articles/cash-versus-kind.html), (with [Maitreesh Ghatak](https://personal.lse.ac.uk/ghatak/)and Sandip Mitra). Economic and Political Weekly of India, Vol. 51, Issue No. 11, 12 Mar, 2016, p. 51-60.
+
 ## Teaching
 
 Political Economy of Development (PhD), Spring 2021 and Spring 2022, Teaching Assistant for Prof. [James Robinson](https://voices.uchicago.edu/jamesrobinson/) and Prof. [Chris Blattman](https://chrisblattman.com/)
