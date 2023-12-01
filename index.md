@@ -73,5 +73,5 @@ Microeconomics (Undergraduate), Fall 2018, Teaching Assistant for Prof. [Kerwin 
 
 ## Work with me
 
-Current Job Opportunity: [Research Associate] (/research/RA_Job_2023.pdf)
+Current Job Opportunity: [[Research Associate]](/research/RA_Job_2023.pdf)
 
