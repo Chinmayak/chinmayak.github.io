@@ -70,3 +70,8 @@ Advanced Microeconomics (PhD), Winter 2020, Teaching Assistant for Prof. [Damon 
 Order and Violence (MPP), Spring 2019, Teaching Assistant for Prof. [Chris Blattman](https://chrisblattman.com/)
 
 Microeconomics (Undergraduate), Fall 2018, Teaching Assistant for Prof. [Kerwin Charles](https://kerwin-charles.squarespace.com/)
+
+## Work with me
+
+Current Job Opportunity: [Research Associate] (/research/RA_Job_2023.pdf)
+
