@@ -6,11 +6,10 @@ layout: homepage
 
 [Curriculum Vitae](/documents/Chinmaya_Kumar_cv.pdf)
 
-I am a Ph.D. student at University of Chicago. My research interests lie at the intersection of development, political, and behavioral economics. I am interested in studying agency problems in public sector organizations and identifying interventions that can improve state effectiveness. In addition, I am also working on the causes of the under-representation of minorities in leadership roles in firms, bureaucracies, and elected bodies. 
+I am an Assistant Professor of Economics at Azim Premji University, Bengaluru, India. My research interests lie at the intersection of development, political, and behavioral economics. I am interested in studying agency problems in public sector organizations and identifying interventions that can improve state effectiveness. In addition, I am also working on the causes of the under-representation of minorities in leadership roles in firms, bureaucracies, and elected bodies. 
 
 My research projects have been funded by several organizations including [NSF](), [J-PAL](https://www.povertyactionlab.org/), [BFI Development Economics Center](https://bfi.uchicago.edu/centers-programs/development-economics-center/), [The Weiss Fund](https://bfi.uchicago.edu/the-weiss-fund/), [IGC](https://www.theigc.org/), and [Azim Premji Foundation](https://azimpremjifoundation.org/). 
-
-I am on the 2022-23 job market and will be available for interviews. 
+ 
 
 **Primary fields**: Development economics, Political economy 
 
