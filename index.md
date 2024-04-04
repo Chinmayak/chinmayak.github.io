@@ -40,11 +40,7 @@ of low caste (Scheduled Castes/SC) groups in Bihar, India. Using a regression di
 </details>
 <br/>
 
-"Persistent Prejudice: De-Biasing and the Demand for News", with [Christopher Blattman](https://chrisblattman.com/), [Leonardo Bursztyn](https://home.uchicago.edu/bursztyn/index.html), Kailash Rajah, [Chris Roth](https://sites.google.com/site/chrisrotheconomics/home) 
-<details>
-<summary>Abstract</summary> Identity groups often hold incorrect and biased beliefs about competing groups. These beliefs may be persistent and difficult to correct. Why is that? We hypothesize that people exposed to information counter to their group identity may work to re-bias themselves by increasing their selective exposure--their consumption of biased news and information. We design an experiment in which we randomly provide Hindu respondents with information to correct a biased belief about Muslims using informational videos. We first confirm that the videos shift their beliefs during the experiment. We then examine their demand for new information—having been de-biased, are they more likely to seek information from a biased source?
-</details>
-<br/>
+
 
 "Leader Led Growth: Social Identity and performance of Economic Enterprises in Rural India", with [M. R. Sharan](https://www.mrsharan.com/)
 <details>
