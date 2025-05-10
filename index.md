@@ -4,26 +4,28 @@ layout: homepage
 
 ## About
 
-[Curriculum Vitae](/documents/Chinmaya_Kumar_cv.pdf)
+[Curriculum Vitae](/documents/Chinmaya_Kumar_CV_2025.pdf)
 
-I am an Assistant Professor of Economics at Azim Premji University, Bengaluru, India. My research interests lie at the intersection of development, political, and behavioral economics. I am interested in studying agency problems in public sector organizations and identifying interventions that can improve state effectiveness. In addition, I am also working on the causes of the under-representation of minorities in leadership roles in firms, bureaucracies, and elected bodies. 
+I am an Assistant Professor of Economics at Azim Premji University in Bengaluru, India. My research lies at the intersection of development, political, labor, and behavioral economics, with a focus on identifying scalable interventions that enhance the effectiveness of public institutions and improve labor market outcomes.
+
+A central strand of my work examines agency problems in public sector delivery and explores how complaint and monitoring systems can strengthen citizen engagement and improve state responsiveness. In parallel, I study the causes and consequences of underrepresentation of minorities in leadership roles across firms, bureaucracies, and elected bodies. More recently, I have begun a new line of research in labor economics, investigating firm behavior in informal labor markets, particularly the motivations behind hiring migrant workers and the structural barriers these workers face.
+
+My research approach combines field experiments, survey methods, and administrative data, often in collaboration with civil society organizations and government partners.
 
 My research projects have been funded by several organizations including [NSF](), [J-PAL](https://www.povertyactionlab.org/), [BFI Development Economics Center](https://bfi.uchicago.edu/centers-programs/development-economics-center/), [The Weiss Fund](https://bfi.uchicago.edu/the-weiss-fund/), [IGC](https://www.theigc.org/), and [Azim Premji Foundation](https://azimpremjifoundation.org/). 
  
 
-**Primary fields**: Development economics, Political economy 
+**Primary fields**: Development economics, Labor economics
 
-**Secondary fields**: Behavioral economics, Labor economics 
+**Secondary fields**: Behavioral economics, Political Economy 
 
 
-## Job Market Paper
+## Research Papers
 Kumar, Chinmaya, and [M. R. Sharan](https://www.mrsharan.com/). "Complaint Resolution Systems: Experimental Evidence from Rural India." [[PDF]](/research/jmp.pdf)
 <details>
 <summary>Abstract</summary> We study whether access to complaint resolution systems can resolve hold-up problems in implementing public good projects. We run a field experiment involving 1629 low-caste local representatives who were unable to start public goods projects in their constituencies due to bureaucratic hurdles. We randomize offers to file complaints regarding public good project initiation on their behalf and track its effects. Our treatment leads to a 40 percentage points jump in complaint filing rate and is effective in improving project implementation: treated constituencies see a 26% rise in public good projects. We also find that the treatment increases project initiation in neighboring constituencies by 23%. Our analysis suggests that the mere threat of a formal complaint technology could cause project initiation in neighboring wards. However, resolution rates go down when multiple complaints are filed against the same higher bureaucrat. Surprisingly, treated representatives did not gain any electoral returns in the local elections held two years after the treatment.. 
 </details> 
 <br/>
-
-## Working Papers
 
 [M. R. Sharan](https://www.mrsharan.com/), and Chinmaya Kumar. "The Distributional Consequences of Political Reservation." [[PDF]](/research/reservation_paper.pdf) 
 <details>
@@ -32,14 +34,20 @@ of low caste (Scheduled Castes/SC) groups in Bihar, India. Using a regression di
 </details>
 <br/>
 
-## Work in Progress
 
 "Distaste for Minority Employers: Experimental Evidence from India" 
 <details>
-<summary>Abstract</summary> Minorities are underrepresented in enterprise ownership and leadership positions. This paper investigates one potential cause: discrimination against minority employers by subordinate workers. Using a field experiment in the hiring process of a private Indian firm, I examine whether minority employers face bias in the quantity and quality of job applicants. The experiment randomized employer identity (minority vs. non-minority) and the disclosure of reference checks to test for social image concerns as a motive for discrimination. Results show that applicants assigned to a minority employer were 2.8 percentage points (10%) less likely to accept interview offers, and the average quality of applicants—measured by educational attainment—was significantly lower. We find no evidence that social image concerns drive this discrimination, as reference checks had no differential effect. Heterogeneity analysis reveals that non-minority workers disproportionately discriminate against minority employers, while minority workers exhibit less bias. These findings underscore the economic costs of bottom-up discrimination for minority entrepreneurs and advance the literature on labor market discrimination by highlighting an understudied dimension: employee bias against employers. 
+<summary>Abstract</summary>  Minorities are underrepresented in enterprise ownership and leadership positions. This paper investigates one potential cause: discrimination against minority employers by subordinate workers. Using a field experiment in the hiring process of a private Indian firm, I examine whether minority employers face bias in the quantity and quality of job applicants. The experiment randomized employer identity (minority vs. non-minority) and the disclosure of reference checks to test for social image concerns as a motive for discrimination. Results show that applicants assigned to a minority employer were 2.8 percentage points (10\%) less likely to accept interview offers, and the average quality of applicants—measured by educational attainment—was significantly lower. I find no evidence that social image concerns drive this discrimination, as reference checks had no differential effect. Heterogeneity analysis reveals that non-minority workers disproportionately discriminate against minority employers, while minority workers exhibit less bias.
 </details>
 <br/>
 
+## Work in Progress
+
+"Why do Firms Hire Migrant Workers?:Evidence from India", with [Varun Kapoor](https://sites.google.com/view/varunk/)
+<details>
+<summary>Abstract</summary> 
+</details>
+<br/>
 
 
 "Leader Led Growth: Social Identity and performance of Economic Enterprises in Rural India", with [M. R. Sharan](https://www.mrsharan.com/)
